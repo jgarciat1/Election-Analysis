@@ -14,10 +14,38 @@ Of course, I said yes! I went back to work and included all of that information.
 
 ## Election Audit Results
 - How many votes were casted in this congressional election?
+
+In this congressional election, there were a total of 369,711 votes
+
+![Total Votes](https://github.com/jgarciat1/Election-Analysis/blob/main/total_votes_sc.png)
+
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+
+With the 369,711 total votes this election, they were distributed amongst the Denver, Jefferson, and Arapahoe counties as follows: 
+1. Denver County had 306,055 votes or an 82.8% share
+2. Jefferson County had 38,855 votes or a 10.5% share
+3. Arapahoe County had 24,801 votes or a 6.7% share
+
+![County Votes](https://github.com/jgarciat1/Election-Analysis/blob/main/county_votes_sc.png)
+
 - Which county had the largest number of votes?
+
+Denver County was the county with the largest number of votes as there were 306,055 votes, which was 82.8% of the total votes
+
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+
+Here are the results for the 3 candidates in this election:
+1. Diana DeGette received 272,892 votes or 73.8% of the total
+2. Charles Casper Stockham received 85,213 votes or 23.0% of the total
+3. Raymon Anthony Doane received 11,606 votes or 3.1% of the total
+
+![Candidate Results](https://github.com/jgarciat1/Election-Analysis/blob/main/candidate_results.png)
+
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+
+Diana DeGette won the election by a large margin with a vote count of 272,892 votes, which was nearly 200,000 more votes than second place candidate Charles Casper Stockham. She took 73.8% of the total votes in this election
+
+![Winner of Election](https://github.com/jgarciat1/Election-Analysis/blob/main/winner_of_election.png)
 
 ## Summary
 The analysis of the election show that:
