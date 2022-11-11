@@ -68,3 +68,10 @@ This challenge was very hard. I ran into multiple issues were my file somehow di
 
 ## Election-Audit Summary
 #### In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
+
+I would mention that the same work we did for this election can be copied onto other elections. All we need is the voting results as an excel. After that, we can alter the names of the candidates, counties, etc. 
+
+Example 1: Update the file to the name of the county we are analyzing
+Example 2: Update the file to the names of the candidates we are analyzing
+
+Once this has been done, everything else just follows through as we did with the previous election. We can count the votes, do the calculations, and then analyze the final results. 
